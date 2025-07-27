@@ -1,0 +1,12 @@
+    body {
+    font-family: 'Roboto', sans-serif;
+    }
+    .navbar {
+      font-family: 'Roboto', sans-serif;
+    }
+
+    input::placeholder {
+      font-weight: bold;
+      color: #0A0A0A;
+      opacity: 1;
+    }
